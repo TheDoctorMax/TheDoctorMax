@@ -1,4 +1,4 @@
-### Hi there 👋 :flag
+### Hi there 👋 🏴‍☠️
 
 - 🔭 I’m currently working on ... getting into Github and python coding
 - 🌱 I’m currently learning Python 
