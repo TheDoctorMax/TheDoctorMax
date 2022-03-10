@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 :flag
+
 - 🔭 I’m currently working on ... getting into Github and python coding
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on ... hmmmm got to think of that
