@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with ... the use of Github
 - 💬 Ask me about ... you tell me
 - 📫 How to reach me: ... use twitter
-- 😄 Pronouns: ... 
+- 😄 Other Interests : ... Beer brewing 
 - ⚡ Fun fact: ... 2 is the double of 1 ...... wait a minut think about it :D
 
 <!--
